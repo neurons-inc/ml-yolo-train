@@ -2,7 +2,7 @@
 
 ## Trained Model
 Final trained model (based on YOLO 11x.pt) can be found here:
-https://drive.google.com/drive/folders/1__Rl_OdVPkJlfJNstDi4GLuWH83ZCSXo
+https://drive.google.com/drive/folders/1zOcGuUJ2aAbJeBkJ-0oF-pyioVVuMtdS?usp=sharing
 
 ## Purpose Overview  
 This YOLO model is trained for **object detection** on a dataset of static assets categorized into five key classes:  
@@ -41,10 +41,14 @@ This repo contains **everything needed** to train or retrain the YOLO model for 
 ## Installation  
 To install dependencies, run:  
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
-### Contact:  i.white@neuronsinc.com
+## License
+See **`LICENSE` file
+
+
+**Contact:**  i.white@neuronsinc.com
 
 This project was developed for internal content analysis at Neurons Inc.
