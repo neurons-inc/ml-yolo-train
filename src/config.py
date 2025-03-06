@@ -10,7 +10,7 @@ LABEL_MAPPING = {
     "product": 4
 }
 
-USED_MODEL = "src/models/yolo11n.pt"
+USED_MODEL = "src/models/yolo11x.pt"
 
 # MODEL TRAINING SET-UP
 EPOCHS = 100
