@@ -1,0 +1,10 @@
+# Exclude models due to its size, can be dowloaded from the server
+src/models/
+
+# Exclude temporary files and cache
+*.log
+*.tmp
+*.pyc
+.DS_Store
+.vscode/
+.venv

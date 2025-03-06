@@ -1,0 +1,14 @@
+# Paths
+train: src/data/images/train
+val: src/data/images/val
+test: src/data/images/val
+
+num_classes: 5
+
+# Classes
+names:
+  0: branding
+  1: headline_text
+  2: body_text
+  3: call_to_action_(cta)
+  4: product
