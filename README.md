@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ```
 
 ## License
-See **`LICENSE` file
+See **`LICENSE`** file
 
 
 **Contact:**  i.white@neuronsinc.com
